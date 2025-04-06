@@ -1,0 +1,7 @@
+<declare-styleable name="Theme_TelegramBotApp">
+    <attr name="colorPrimaryVariant" format="color"/>
+    <attr name="colorOnPrimary" format="color"/>
+    <attr name="colorSecondary" format="color"/>
+    <attr name="colorSecondaryVariant" format="color"/>
+    <attr name="colorOnSecondary" format="color"/>
+</declare-styleable>

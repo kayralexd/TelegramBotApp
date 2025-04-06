@@ -1,0 +1,6 @@
+<resources>
+    <color name="purple_500">#9C27B0</color> <!-- Bu rengi istediğiniz şekilde değiştirebilirsiniz -->
+    <color name="purple_700">#7B1FA2</color> <!-- Bu rengi istediğiniz şekilde değiştirebilirsiniz -->
+    <color name="teal_200">#03DAC5</color> <!-- Bu rengi istediğiniz şekilde değiştirebilirsiniz -->
+    <color name="teal_700">#018786</color> <!-- Bu rengi istediğiniz şekilde değiştirebilirsiniz -->
+</resources>
